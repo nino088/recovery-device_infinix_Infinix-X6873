@@ -20,5 +20,6 @@ PRODUCT_MANUFACTURER := INFINIX
 PRODUCT_GMS_CLIENTID_BASE := android-infinix
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRIVATE_BUILD_DESC="alps/hal_mgvi_64_64only_armv82/mgvi_64_64only_armv82:14/UP1A.231005.007/948186:user/dev-keys"
+    PRIVATE_BUILD_DESC := "alps/hal_mgvi_64_64only_armv82/mgvi_64_64only_armv82:14/UP1A.231005.007/948186:user/dev-keys"
+
 BUILD_FINGERPRINT := Infinix/X6873-OP/Infinix-X6873:15/AP3A.240905.015.A2/145008:user/release-keys
