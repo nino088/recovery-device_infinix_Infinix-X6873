@@ -153,7 +153,7 @@ TARGET_USES_LOGD := true
 TARGET_USES_MKE2FS := true
 TW_MAX_BRIGHTNESS := 255
 TW_LOAD_VENDOR_BOOT_MODULES := true
-TW_DEVICE_VERSION := X6873
+TW_DEVICE_VERSION := X6873_nino
 TW_CUSTOM_CPU_TEMP_PATH := /sys/devices/virtual/thermal/thermal_zone31/temp
 
 # StatusBar
